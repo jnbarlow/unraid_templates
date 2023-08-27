@@ -14,7 +14,7 @@
 The local node will be running on port 18081 (this is what you will connect a local wallet to).  If you choose to make this a public node, it will start a service listening on port 18089, which you will need to route to the container.</Overview>
   <Category>Crypto:</Category>
   <WebUI>http://[IP]:[PORT:3000]</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/linuxserver/templates/master/unraid/radarr.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/jnbarlow/unraid_templates/main/templates/monero-nodeboard.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/jnbarlow/unraid_templates/main/images/monero-symbol-480.png</Icon>
   <ExtraParams/>
   <PostArgs/>

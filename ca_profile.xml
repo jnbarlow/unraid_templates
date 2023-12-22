@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://raw.githubusercontent.com/jnbarlow/unraid_templates/main/images/tick.jpg</Icon>
+  <Profile>
+    Adding a little spice to unraid, one app at a time.
+  </Profile>
+  <DonateLink>https://paypal.me/jnbarlow</DonateLink>
+  <DonateText>If you like my work please consider Donating.</DonateText>
+</Maintainer>

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>monero-nodeboard</Name>
-  <Repository>ghcr.io/jnbarlow/monero-nodeboard:main</Repository>
-  <Registry>https://ghcr.io/jnbarlow/monero-nodeboard</Registry>
+  <Repository>jnbarlow/monero-nodeboard:main</Repository>
+  <Registry>https://hub.docker.com/r/jnbarlow/monero-nodeboard</Registry>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>bash</Shell>
